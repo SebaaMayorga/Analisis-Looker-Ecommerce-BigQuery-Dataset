@@ -1,6 +1,6 @@
-📊 Dashboard de Performance E-commerce: Análisis TheLook (BigQuery Dataset)
+# 📊 Dashboard de Performance E-commerce: Análisis TheLook (BigQuery Dataset)
 
-##🎯 Objetivo del Proyecto
+## 🎯 Objetivo del Proyecto
 Transformar datos transaccionales complejos del dataset global TheLook en una herramienta de Business Intelligence para la toma de decisiones. El enfoque principal fue construir una arquitectura de datos sólida (Capa Oro en SQL) para responder a preguntas críticas sobre rentabilidad, logística y comportamiento del cliente en un entorno de marketplace.
 
 ## 📂 Recursos del Proyecto
