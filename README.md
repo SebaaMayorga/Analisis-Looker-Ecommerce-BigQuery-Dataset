@@ -48,12 +48,16 @@ Optimización Estratégica: El análisis por categorías permite identificar qu�
 ---
 
 Cómo navegar este repositorio:
+
 📂 /scripts_sql: Encuentra la lógica de creación de la vista y las consultas de auditoría.
 
 📂 /dashboard: Descarga el archivo .pbix para interactuar con el modelo de datos.
+
+📂 /img: Capturas de pantalla del proyecto.
+
 
 ---
 
 **Desarrollado por Sebastian Mayorga - Junior Data Analyst**
 
-📂 /img: Capturas de pantalla del proyecto.
+
